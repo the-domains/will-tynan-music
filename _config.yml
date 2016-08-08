@@ -16,5 +16,8 @@ navigation:
   - name: Life on Titan
     id: 2f216d7f-2ba6-4666-a3d9-0d980bd9e534
     type: content
+  - name: Evening Radio
+    id: 4cd1d8d1-7893-4c81-8f56-51eb5590d6c1
+    type: content
 title: Will Tynan Music
 description: ''
