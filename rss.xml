@@ -4,8 +4,15 @@
         <description><![CDATA[Will Tynan Music]]></description>
         <link>https://thegrid.ai/will-tynan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 01:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 01:52:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/will-tynan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ea0dda6-67d0-461e-b194-b1e2495e72f5.jpg" alt="Cold Call live at The Middle East in Cambridge, MA">]]></description>
+            <link>https://thegrid.ai/will-tynan/72b538fd-dd8d-4b14-8f7c-c64a220b5b71/index.html</link>
+            <guid isPermaLink="false">72b538fd-dd8d-4b14-8f7c-c64a220b5b71</guid>
+            <pubDate>Mon, 08 Aug 2016 01:52:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a5cb296b34484d676218fcede3035c5d/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F66cdc12f-fa69-4cc2-bb47-fea36daaa036.jpg&x=0&y=0" alt="Cold Call live at Paradis Rock Club in Boston, MA">]]></description>
@@ -25,13 +32,6 @@
             <link>https://open.spotify.com/artist/5UDfRr6x1G8xYwnNyox5Z4</link>
             <guid isPermaLink="false">2f216d7f-2ba6-4666-a3d9-0d980bd9e534</guid>
             <pubDate>Mon, 08 Aug 2016 01:39:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ea0dda6-67d0-461e-b194-b1e2495e72f5.jpg">]]></description>
-            <link>https://thegrid.ai/will-tynan/72b538fd-dd8d-4b14-8f7c-c64a220b5b71/index.html</link>
-            <guid isPermaLink="false">72b538fd-dd8d-4b14-8f7c-c64a220b5b71</guid>
-            <pubDate>Mon, 08 Aug 2016 01:37:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
