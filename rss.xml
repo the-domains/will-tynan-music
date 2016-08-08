@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Penny Gentleman]]></title>
         <description><![CDATA[The Penny Gentleman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/will-tynan-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 01:30:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Aug 2016 01:31:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/will-tynan-music/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66cdc12f-fa69-4cc2-bb47-fea36daaa036.jpg">]]></description>
+            <link>https://thegrid.ai/will-tynan-music/9f739588-c7be-4786-bf19-170eda2da878/index.html</link>
+            <guid isPermaLink="false">9f739588-c7be-4786-bf19-170eda2da878</guid>
+            <pubDate>Mon, 08 Aug 2016 01:31:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/118be6cf-345c-47b8-9bce-b03164743b2a.jpg">]]></description>
-            <link>undefined4cd1d8d1-7893-4c81-8f56-51eb5590d6c1/index.html</link>
+            <link>https://thegrid.ai/will-tynan-music/4cd1d8d1-7893-4c81-8f56-51eb5590d6c1/index.html</link>
             <guid isPermaLink="false">4cd1d8d1-7893-4c81-8f56-51eb5590d6c1</guid>
             <pubDate>Mon, 08 Aug 2016 01:30:55 GMT</pubDate>
         </item>
