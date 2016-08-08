@@ -29,16 +29,14 @@ app_links:
     package: com.spotify.music
     namespace: google
     type: android
-isBasedOnUrl: 'https://open.spotify.com/artist/5UDfRr6x1G8xYwnNyox5Z4'
 title: ''
-datePublished: '2016-08-08T01:39:39.920Z'
-dateModified: '2016-08-08T01:38:39.994Z'
+datePublished: '2016-08-08T02:49:26.897Z'
+dateModified: '2016-08-08T02:49:26.545Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-08-life-on-titan.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: life-on-titan/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
