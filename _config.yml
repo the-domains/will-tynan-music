@@ -22,5 +22,8 @@ navigation:
   - name: Cold Call
     id: 9f739588-c7be-4786-bf19-170eda2da878
     type: content
+  - name: Cold Call
+    id: 72b538fd-dd8d-4b14-8f7c-c64a220b5b71
+    type: content
 title: Will Tynan Music
 description: ''
