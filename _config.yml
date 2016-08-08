@@ -19,5 +19,8 @@ navigation:
   - name: Evening Radio
     id: 4cd1d8d1-7893-4c81-8f56-51eb5590d6c1
     type: content
+  - name: Cold Call
+    id: 9f739588-c7be-4786-bf19-170eda2da878
+    type: content
 title: Will Tynan Music
 description: ''
